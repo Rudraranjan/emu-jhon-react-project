@@ -1,3 +1,15 @@
+.search-box{
+    background-color: rgb(49, 48, 48);
+    text-align: center;
+    padding: 10px;
+
+}
+.search-box input{
+    width: 75%;
+    padding: 10px;
+}
+
+
 .shop-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
